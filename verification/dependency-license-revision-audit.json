@@ -1,0 +1,275 @@
+[
+  {
+    "name": "mathlib",
+    "url": "https://github.com/leanprover-community/mathlib4.git",
+    "lockedRev": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+    "actualRev": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PrimeCert",
+    "url": "https://github.com/b-mehta/PrimeCert",
+    "lockedRev": "f699a3e5d3efb381b9ddfb61a1ca51be25f456bd",
+    "actualRev": "f699a3e5d3efb381b9ddfb61a1ca51be25f456bd",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "36c9447a2cbaf594d4c64094920f4bc38a2609c6d0a4977706ad4338f7ec3914",
+        "firstLines": [
+          "MIT License",
+          "",
+          "Copyright (c) 2026 Bhavik Mehta",
+          "",
+          "Permission is hereby granted, free of charge, to any person obtaining a copy"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "leancert",
+    "url": "https://github.com/alerad/leancert.git",
+    "lockedRev": "33a9d1762b284fe1914d481d6a8158520e14708e",
+    "actualRev": "33a9d1762b284fe1914d481d6a8158520e14708e",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "b6483eb31d324f7ec37b3207046a1a3fd7c56a1d770a71b30b7a96e502f09d59",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "checkdecls",
+    "url": "https://github.com/PatrickMassot/checkdecls.git",
+    "lockedRev": "3d425859e73fcfbef85b9638c2a91708ef4a22d4",
+    "actualRev": "3d425859e73fcfbef85b9638c2a91708ef4a22d4",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LeanArchitect",
+    "url": "https://github.com/hanwenzhu/LeanArchitect.git",
+    "lockedRev": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+    "actualRev": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "plausible",
+    "url": "https://github.com/leanprover-community/plausible",
+    "lockedRev": "63045536fe95024e6c18fc7b48e03f506701c5bc",
+    "actualRev": "63045536fe95024e6c18fc7b48e03f506701c5bc",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LeanSearchClient",
+    "url": "https://github.com/leanprover-community/LeanSearchClient",
+    "lockedRev": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+    "actualRev": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "importGraph",
+    "url": "https://github.com/leanprover-community/import-graph",
+    "lockedRev": "5c7542ed018c78194f1e2b903eaf6a792b74c03d",
+    "actualRev": "5c7542ed018c78194f1e2b903eaf6a792b74c03d",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "proofwidgets",
+    "url": "https://github.com/leanprover-community/ProofWidgets4",
+    "lockedRev": "24b0d9dc081c5423f8eec7e866c441e5184f29d9",
+    "actualRev": "24b0d9dc081c5423f8eec7e866c441e5184f29d9",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "aesop",
+    "url": "https://github.com/leanprover-community/aesop",
+    "lockedRev": "e3cb2f741431ce31bf73549fb52316a57368b06f",
+    "actualRev": "e3cb2f741431ce31bf73549fb52316a57368b06f",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qq",
+    "url": "https://github.com/leanprover-community/quote4",
+    "lockedRev": "f46324995fca5f0483b742e4eb4daec7f4ee50d2",
+    "actualRev": "f46324995fca5f0483b742e4eb4daec7f4ee50d2",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "batteries",
+    "url": "https://github.com/leanprover-community/batteries",
+    "lockedRev": "fc38104235ab6cf8a448a74405aa258804ef4e36",
+    "actualRev": "fc38104235ab6cf8a448a74405aa258804ef4e36",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "firstLines": [
+          "                                 Apache License",
+          "                           Version 2.0, January 2004",
+          "                        http://www.apache.org/licenses/",
+          "",
+          "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cli",
+    "url": "https://github.com/leanprover/lean4-cli",
+    "lockedRev": "92564e5770e4d09f2d86dfbf8ada1e9c715b384c",
+    "actualRev": "92564e5770e4d09f2d86dfbf8ada1e9c715b384c",
+    "revisionMatches": true,
+    "trackedChanges": [],
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "sha256": "f7e95706807e931782b6efd9a9d2789508a52423ad67b56ee7e5e324362d4aac",
+        "firstLines": [
+          "MIT License",
+          "",
+          "Copyright (c) 2021 mhuisi",
+          "",
+          "Permission is hereby granted, free of charge, to any person obtaining a copy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Erdos320.LowerAnalytic.AxiomAudit",
+    "exit_code": 0
+  },
+  {
+    "module": "Erdos320.UpperAnalyticAxiomAudit",
+    "exit_code": 0
+  },
+  {
+    "module": "Erdos320.UpperFinite.AxiomAudit",
+    "exit_code": 0
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "module": "Erdos320.Core",
+    "planned_prefix_matches": [
+      "Erdos320.Core"
+    ]
+  },
+  {
+    "module": "Erdos320.Final",
+    "planned_prefix_matches": [
+      "Erdos320.Final"
+    ]
+  },
+  {
+    "module": "Erdos320.LogIntegral",
+    "planned_prefix_matches": [
+      "Erdos320.LogIntegral"
+    ]
+  },
+  {
+    "module": "Erdos320.LogProduct",
+    "planned_prefix_matches": [
+      "Erdos320.LogProduct"
+    ]
+  },
+  {
+    "module": "Erdos320.LogScale",
+    "planned_prefix_matches": [
+      "Erdos320.LogScale"
+    ]
+  },
+  {
+    "module": "Erdos320.Lower",
+    "planned_prefix_matches": [
+      "Erdos320.Lower"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAbel",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAbel"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.AxiomAudit",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.AxiomAudit"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Comparison",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Comparison"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Cutoffs",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Cutoffs"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Iteration",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Iteration"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Losses",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Losses"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Mesh",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Mesh"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerAnalytic.Renewal",
+    "planned_prefix_matches": [
+      "Erdos320.LowerAnalytic.Renewal"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerArithmetic",
+    "planned_prefix_matches": [
+      "Erdos320.LowerArithmetic"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerCofactors",
+    "planned_prefix_matches": [
+      "Erdos320.LowerCofactors"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerCompatible",
+    "planned_prefix_matches": [
+      "Erdos320.LowerCompatible"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerCounting",
+    "planned_prefix_matches": [
+      "Erdos320.LowerCounting"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerCutoff",
+    "planned_prefix_matches": [
+      "Erdos320.LowerCutoff"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerCutoffGrowth",
+    "planned_prefix_matches": [
+      "Erdos320.LowerCutoffGrowth"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerFinite",
+    "planned_prefix_matches": [
+      "Erdos320.LowerFinite"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerMultiplication",
+    "planned_prefix_matches": [
+      "Erdos320.LowerMultiplication"
+    ]
+  },
+  {
+    "module": "Erdos320.LowerRenewal",
+    "planned_prefix_matches": [
+      "Erdos320.LowerRenewal"
+    ]
+  },
+  {
+    "module": "Erdos320.PrimeCounting",
+    "planned_prefix_matches": [
+      "Erdos320.PrimeCounting"
+    ]
+  },
+  {
+    "module": "Erdos320.PrimeCountingEventual",
+    "planned_prefix_matches": [
+      "Erdos320.PrimeCountingEventual"
+    ]
+  },
+  {
+    "module": "Erdos320.Statement",
+    "planned_prefix_matches": [
+      "Erdos320.Statement"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalytic",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalytic"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticApplication",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticApplication"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticAxiomAudit",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticAxiomAudit"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticDecay",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticDecay"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticFinal",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticFinal"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticKernel",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticKernel"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticLimits",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticLimits"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticPNT",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticPNT"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticPrimeBlocks",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticPrimeBlocks"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticPrimeIntervals",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticPrimeIntervals"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperAnalyticUniform",
+    "planned_prefix_matches": [
+      "Erdos320.UpperAnalyticUniform"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.AxiomAudit",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.AxiomAudit"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.Combinatorics",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.Combinatorics"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.Denominator",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.Denominator"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.Grouping",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.Grouping"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.ResidualEstimate",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.ResidualEstimate"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperFinite.SmoothDenominator",
+    "planned_prefix_matches": [
+      "Erdos320.UpperFinite.SmoothDenominator"
+    ]
+  },
+  {
+    "module": "Erdos320.UpperRecurrence",
+    "planned_prefix_matches": [
+      "Erdos320.UpperRecurrence"
+    ]
+  },
+  {
+    "module": "Architect",
+    "planned_prefix_matches": [
+      "Architect",
+      "Architect.Attribute",
+      "Architect.Basic",
+      "Architect.CollectUsed",
+      "Architect.Command",
+      "Architect.Content",
+      "Architect.Load",
+      "Architect.Output",
+      "Architect.Tactic"
+    ]
+  },
+  {
+    "module": "Architect.Attribute",
+    "planned_prefix_matches": [
+      "Architect.Attribute"
+    ]
+  },
+  {
+    "module": "Architect.Basic",
+    "planned_prefix_matches": [
+      "Architect.Basic"
+    ]
+  },
+  {
+    "module": "Architect.CollectUsed",
+    "planned_prefix_matches": [
+      "Architect.CollectUsed"
+    ]
+  },
+  {
+    "module": "Architect.Command",
+    "planned_prefix_matches": [
+      "Architect.Command"
+    ]
+  },
+  {
+    "module": "Architect.Content",
+    "planned_prefix_matches": [
+      "Architect.Content"
+    ]
+  },
+  {
+    "module": "Architect.Load",
+    "planned_prefix_matches": [
+      "Architect.Load"
+    ]
+  },
+  {
+    "module": "Architect.Output",
+    "planned_prefix_matches": [
+      "Architect.Output"
+    ]
+  },
+  {
+    "module": "Architect.Tactic",
+    "planned_prefix_matches": [
+      "Architect.Tactic"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Auxiliary",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Auxiliary"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.EulerMaclaurin",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.EulerMaclaurin"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Fourier",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Fourier"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Mathlib.Algebra.Notation.Support",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Mathlib.Algebra.Notation.Support"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Mathlib.Analysis.SpecialFunctions.Log.Basic",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Mathlib.Analysis.SpecialFunctions.Log.Basic"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.MediumPNT",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.MediumPNT"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.MellinCalculus",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.MellinCalculus"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Rectangle",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Rectangle"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.ResidueCalcOnRectangles",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.ResidueCalcOnRectangles"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.SmoothExistence",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.SmoothExistence"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Sobolev",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Sobolev"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.Tactic.AdditiveCombination",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.Tactic.AdditiveCombination"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.ZetaBounds",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.ZetaBounds"
+    ]
+  },
+  {
+    "module": "PrimeNumberTheoremAnd.ZetaConj",
+    "planned_prefix_matches": [
+      "PrimeNumberTheoremAnd.ZetaConj"
+    ]
+  }
+]

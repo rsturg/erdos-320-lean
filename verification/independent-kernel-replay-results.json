@@ -1,0 +1,62 @@
+[
+  {
+    "group": "own",
+    "module": "Erdos320.Core",
+    "replayed_modules": [
+      "Erdos320.Core"
+    ],
+    "runtime_threads": 2,
+    "exit_code": 0,
+    "utc_start": "2026-10-16T04:11:58.2396642Z",
+    "utc_end": "2026-10-16T04:12:41.1947711Z",
+    "elapsed_seconds": 42.955
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.Final",
+    "replayed_modules": [
+      "Erdos320.Final"
+    ],
+    "runtime_threads": 2,
+    "exit_code": 0,
+    "utc_start": "2026-10-16T04:12:41.2085587Z",
+    "utc_end": "2026-10-16T04:13:35.6500095Z",
+    "elapsed_seconds": 54.441
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogIntegral",
+    "replayed_modules": [
+      "Erdos320.LogIntegral"
+    ],
+    "runtime_threads": 2,
+    "exit_code": 0,
+    "utc_start": "2026-10-16T04:13:35.6538619Z",
+    "utc_end": "2026-10-16T04:14:25.0987688Z",
+    "elapsed_seconds": 49.445
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogProduct",
+    "replayed_modules": [
+      "Erdos320.LogProduct"
+    ],
+    "runtime_threads": 2,
+    "exit_code": 0,
+    "utc_start": "2026-10-16T04:14:25.1019373Z",
+    "utc_end": "2026-10-16T04:15:21.4429213Z",
+    "elapsed_seconds": 56.341
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogScale",
+    "replayed_modules": [
+      "Erdos320.LogScale"
+    ],
+    "runtime_threads": 2,
+    "exit_code": 0,
+    "utc_start": "2026-10-16T04:15:21.4460979Z",
+    "utc_end": "2026-10-16T04:15:37.4859629Z",
+    "elapsed_seconds": 16.04
+  }
+]

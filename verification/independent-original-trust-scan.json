@@ -1,0 +1,6 @@
+{
+  "files_checked": 46,
+  "scope": "original project and independent expected-type audit; comments and strings masked",
+  "unsafe_partial_or_custom_metaprogramming_matches": [],
+  "pass": true
+}

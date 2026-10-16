@@ -1,0 +1,14 @@
+{
+  "utc": "2026-10-16T04:16:43.0014586Z",
+  "old_plan_invocations": 67,
+  "completed_individual_invocations": 5,
+  "completed_all_exit_zero": true,
+  "last_old_log_line": "START own Erdos320.Lower 2026-10-16T04:15:37.4886084Z",
+  "reason": "Avoid repeated full search-path scans. The old read-only replay orchestrator and only its verified descendants were stopped. No proof/source files were altered.",
+  "replacement_command": "lake env leanchecker -v Erdos320 PrimeNumberTheoremAnd Architect",
+  "replacement_runtime_threads": 1,
+  "expected_unique_modules": 68,
+  "module_scope": "45 own (including import-only root shim),14 PNT,9 Architect",
+  "imported_mathlib_fresh_replay": false,
+  "metadata_note": "A PowerShell false literal typo in this non-proof metadata record was corrected; the bulk checker command was unaffected."
+}

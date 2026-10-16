@@ -1,0 +1,5 @@
+{
+  "utc_start": "2026-10-16T04:16:16.7850481Z",
+  "command": "lake env leanchecker -v Erdos320 PrimeNumberTheoremAnd Architect",
+  "runtime_threads": 1
+}

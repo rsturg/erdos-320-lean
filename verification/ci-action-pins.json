@@ -1,0 +1,30 @@
+{
+  "schema": "erdos320-ci-action-pins-v1",
+  "checkedAtUtc": "2026-10-16T04:00:08Z",
+  "actions": [
+    {
+      "commit": "3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "repository": "https://github.com/actions/checkout",
+      "inputs": {
+        "persist-credentials": "false"
+      },
+      "actionSource": "https://github.com/actions/checkout/blob/3d3c42e5aac5ba805825da76410c181273ba90b1/action.yml",
+      "ref": "v7.0.1"
+    },
+    {
+      "commit": "24581d74d674803a25a81b10b059c5c0cdd344c6",
+      "repository": "https://github.com/leanprover/lean-action",
+      "inputs": {
+        "use-mathlib-cache": "true",
+        "lint": "false",
+        "auto-config": "false",
+        "build": "true",
+        "use-github-cache": "false",
+        "test": "false"
+      },
+      "actionSource": "https://github.com/leanprover/lean-action/blob/24581d74d674803a25a81b10b059c5c0cdd344c6/action.yml",
+      "ref": "v1"
+    }
+  ],
+  "scope": "Immutable top-level action references and supported inputs verified against the pinned official action.yml. CI helper installation/download internals are not mathematical proof dependencies. Remote workflow execution results are recorded separately."
+}

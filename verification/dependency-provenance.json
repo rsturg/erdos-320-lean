@@ -1,0 +1,443 @@
+{
+  "schema": "erdos320-dependency-provenance-v1",
+  "status": "Dependency provenance and source-closure audit; release build results are recorded separately in VERIFICATION.md.",
+  "proofToolchain": "leanprover/lean4:v4.31.0",
+  "pnt": {
+    "repository": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+    "commit": "6739793850d3eaa031e3543ed72d7f026f8080f5",
+    "commitDateUtc": "2026-07-10T22:48:02Z",
+    "commitApi": "https://api.github.com/repos/AlexKontorovich/PrimeNumberTheoremAnd/commits/6739793850d3eaa031e3543ed72d7f026f8080f5",
+    "license": "Apache-2.0",
+    "licenseUrl": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/6739793850d3eaa031e3543ed72d7f026f8080f5/LICENSE",
+    "citationUrl": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/6739793850d3eaa031e3543ed72d7f026f8080f5/CITATION.cff",
+    "sourceArchive": {
+      "url": "https://codeload.github.com/AlexKontorovich/PrimeNumberTheoremAnd/zip/6739793850d3eaa031e3543ed72d7f026f8080f5",
+      "bytes": 1857768,
+      "sha256": "f5b8e9aee7c7e4a2fa3e7800f78d7788598193a8597aad229bdba267bf72ea63"
+    },
+    "comparison": "All 14 imported PNT source files and LICENSE/README/toolchain/lakefile/manifest match the previously built local snapshot byte-for-byte by Git blob identifier.",
+    "sourceFiles": [
+      {
+        "path": "PrimeNumberTheoremAnd/Auxiliary.lean",
+        "gitBlob": "fbbe7cbf1d02663dffd1991922be7a7ffdedefdf",
+        "sha256": "7126839feba8e0afb697eeb0b5c8bbfcb3bf2b723d7104455d67109a40c76b3f"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/MellinCalculus.lean",
+        "gitBlob": "ad223e0bd8c5f4205c155cd8325aea3ea8c8505e",
+        "sha256": "ee4ff44710b3d69280c06223e672c49b65cecddb5f8dc453ff0150733ca5e1be"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Sobolev.lean",
+        "gitBlob": "1f98bcbccc7ba3b9c9ee02ec95404731085368f9",
+        "sha256": "fe06e13fad5b47dbd324307ba246110515c4cb50f4c41d6cb15764fd53b1b8ef"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Fourier.lean",
+        "gitBlob": "9688eb9f79ce972799c279b3bf006fdf7b0b8ddb",
+        "sha256": "e9db3c235cabf356d2b4aed528d0ceca6ad3e23c7a150d7049fd9ac796315823"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Mathlib/Analysis/SpecialFunctions/Log/Basic.lean",
+        "gitBlob": "1fa2d2b6a88a2b891dc7674914e8e3fa7d19472c",
+        "sha256": "7e3e2b8f84e6c170051a6474272455bed2432e6fddac5660072318b9b4eda7ec"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Rectangle.lean",
+        "gitBlob": "4fbdabc6770340215f3477378ce824b8718cfc47",
+        "sha256": "ab1c0c7c16ad9f3765e439fe42a739d4d25f09aa991df6c4c303f77380a89885"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Tactic/AdditiveCombination.lean",
+        "gitBlob": "2a113458bae2522bc2ffd9450be68e1033d7fe9a",
+        "sha256": "8791924b05d97f5947e3254fc8b5abacaece4de61c3e111ad53d8913b0ef745e"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/ResidueCalcOnRectangles.lean",
+        "gitBlob": "2cb28dbb9d913732ae8d09347b6a978cb8eaa574",
+        "sha256": "5589c4aad22a38fd403945cba1c1c65ab4f0c932162d13bf7cfd6cfb709d79e0"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/EulerMaclaurin.lean",
+        "gitBlob": "511e9a163128be2729afdf85f564f5ec61dd4d93",
+        "sha256": "a1def4a9f8f0b36864c5d480db137c1d86be3db1a47b67ae151e587a99167146"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/ZetaBounds.lean",
+        "gitBlob": "c613cac8d3a09906c4ca0c7ca8106e1d295e5b2f",
+        "sha256": "aab01d422c0190b95dade7873261943997c554d55fcc9fff94a39005e5b5ad5a"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/ZetaConj.lean",
+        "gitBlob": "c01e5fe45029b0c0ab5c7d5c13466e5d20825b26",
+        "sha256": "396b1145cc4a1caa2a729cce3bc5dbacd1fb3364637d6d1a43aa8dc9618645f3"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/Mathlib/Algebra/Notation/Support.lean",
+        "gitBlob": "13d3575b14d663481b15e0099f75c42739668f40",
+        "sha256": "e688bf925c2130b291c536d3b93b72c20e41ae95d530c90915921d75a6f52504"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/SmoothExistence.lean",
+        "gitBlob": "b33edf879b1117ae0912512529051f0ba77b7d9e",
+        "sha256": "e689045a2d7f92c71c68fda6aa69a89d4a8692187475ba432ed010f453110ea0"
+      },
+      {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "gitBlob": "7e6424e5ffdfa1d4ba46e7573ad6c1572df4f529",
+        "sha256": "7044c41ae6df6798c743434ea82a682cc784b1dbf4a4817662eb7a0579ad747f"
+      }
+    ]
+  },
+  "architect": {
+    "repository": "https://github.com/hanwenzhu/LeanArchitect",
+    "commit": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+    "license": "Apache-2.0",
+    "sourceFiles": [
+      {
+        "module": "Architect.Basic",
+        "path": "Architect/Basic.lean",
+        "gitBlob": "b7da0ef6a80687df66f604ef1645bff1812abadd",
+        "sha256": "92ed89acca564cdfb0cb696a3c2e3b62a7ccca82cb6fca85d0f994ffd2b2cb60"
+      },
+      {
+        "module": "Architect.Command",
+        "path": "Architect/Command.lean",
+        "gitBlob": "4eb106581a3d5ae27bf637205bbe1d0191eebc0d",
+        "sha256": "8497d574c12414908829e8b25a96e0ce52c643bd48da66b678d1623db395696a"
+      },
+      {
+        "module": "Architect.Content",
+        "path": "Architect/Content.lean",
+        "gitBlob": "89df2ebb3db7a11ba83d9d4e799b02809d6870f4",
+        "sha256": "73de49bb499fc140dce470251e3f657368b788dca1659317e902f476ebb9556b"
+      },
+      {
+        "module": "Architect.Attribute",
+        "path": "Architect/Attribute.lean",
+        "gitBlob": "97c9e266439dc73afe579facd84635a897b64316",
+        "sha256": "1bce2337ed4de0e6e735819e89b4d35ad81c7e996e6cade79e8a9ef781dba314"
+      },
+      {
+        "module": "Architect.CollectUsed",
+        "path": "Architect/CollectUsed.lean",
+        "gitBlob": "b64c400830476c79ac71dff1616c70b8d4d252df",
+        "sha256": "921633f79fef58cf0d8540477785c4d9213608642685c21733dd3c61855d154d"
+      },
+      {
+        "module": "Architect.Tactic",
+        "path": "Architect/Tactic.lean",
+        "gitBlob": "dd7719454dd89d5b17da0d7129f10450b9630cfb",
+        "sha256": "cd152524b774c063cb382171e00c3b7913c5757063f560b10f9009e79f37f08d"
+      },
+      {
+        "module": "Architect.Output",
+        "path": "Architect/Output.lean",
+        "gitBlob": "5c4e8d394a3450f34c8528af7f3f23329781b3e9",
+        "sha256": "ef52349573a02ff0714638fb47dfaf335c8c8a8c8b98192d3fc4d190ef4923d3"
+      },
+      {
+        "module": "Architect.Load",
+        "path": "Architect/Load.lean",
+        "gitBlob": "0c7f1614f758fe88709f8b554c372b6421be48d5",
+        "sha256": "6ae5e51b0f041d4cba8da31e0d8ff96ffa8ae89bf6dc33d84d7c0349dc92bd34"
+      },
+      {
+        "module": "Architect",
+        "path": "Architect.lean",
+        "gitBlob": "80df9db2968b796c63e5902d7b422145f23d351e",
+        "sha256": "68748939e82259728644095b343599593f38abe65c971c14f910445a44f4ecf6"
+      }
+    ]
+  },
+  "mathlib": {
+    "repository": "https://github.com/leanprover-community/mathlib4",
+    "commit": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+    "license": "Apache-2.0"
+  },
+  "dependencyAudit": [
+    {
+      "name": "mathlib",
+      "url": "https://github.com/leanprover-community/mathlib4.git",
+      "lockedRev": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+      "actualRev": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrimeCert",
+      "url": "https://github.com/b-mehta/PrimeCert",
+      "lockedRev": "f699a3e5d3efb381b9ddfb61a1ca51be25f456bd",
+      "actualRev": "f699a3e5d3efb381b9ddfb61a1ca51be25f456bd",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "36c9447a2cbaf594d4c64094920f4bc38a2609c6d0a4977706ad4338f7ec3914",
+          "firstLines": [
+            "MIT License",
+            "",
+            "Copyright (c) 2026 Bhavik Mehta",
+            "",
+            "Permission is hereby granted, free of charge, to any person obtaining a copy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "leancert",
+      "url": "https://github.com/alerad/leancert.git",
+      "lockedRev": "33a9d1762b284fe1914d481d6a8158520e14708e",
+      "actualRev": "33a9d1762b284fe1914d481d6a8158520e14708e",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "b6483eb31d324f7ec37b3207046a1a3fd7c56a1d770a71b30b7a96e502f09d59",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "checkdecls",
+      "url": "https://github.com/PatrickMassot/checkdecls.git",
+      "lockedRev": "3d425859e73fcfbef85b9638c2a91708ef4a22d4",
+      "actualRev": "3d425859e73fcfbef85b9638c2a91708ef4a22d4",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LeanArchitect",
+      "url": "https://github.com/hanwenzhu/LeanArchitect.git",
+      "lockedRev": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+      "actualRev": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "lockedRev": "63045536fe95024e6c18fc7b48e03f506701c5bc",
+      "actualRev": "63045536fe95024e6c18fc7b48e03f506701c5bc",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "lockedRev": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+      "actualRev": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "importGraph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "lockedRev": "5c7542ed018c78194f1e2b903eaf6a792b74c03d",
+      "actualRev": "5c7542ed018c78194f1e2b903eaf6a792b74c03d",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "proofwidgets",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "lockedRev": "24b0d9dc081c5423f8eec7e866c441e5184f29d9",
+      "actualRev": "24b0d9dc081c5423f8eec7e866c441e5184f29d9",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "lockedRev": "e3cb2f741431ce31bf73549fb52316a57368b06f",
+      "actualRev": "e3cb2f741431ce31bf73549fb52316a57368b06f",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qq",
+      "url": "https://github.com/leanprover-community/quote4",
+      "lockedRev": "f46324995fca5f0483b742e4eb4daec7f4ee50d2",
+      "actualRev": "f46324995fca5f0483b742e4eb4daec7f4ee50d2",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "batteries",
+      "url": "https://github.com/leanprover-community/batteries",
+      "lockedRev": "fc38104235ab6cf8a448a74405aa258804ef4e36",
+      "actualRev": "fc38104235ab6cf8a448a74405aa258804ef4e36",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+          "firstLines": [
+            "                                 Apache License",
+            "                           Version 2.0, January 2004",
+            "                        http://www.apache.org/licenses/",
+            "",
+            "   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "lockedRev": "92564e5770e4d09f2d86dfbf8ada1e9c715b384c",
+      "actualRev": "92564e5770e4d09f2d86dfbf8ada1e9c715b384c",
+      "revisionMatches": true,
+      "trackedChanges": [],
+      "licenses": [
+        {
+          "file": "LICENSE",
+          "sha256": "f7e95706807e931782b6efd9a9d2789508a52423ad67b56ee7e5e324362d4aac",
+          "firstLines": [
+            "MIT License",
+            "",
+            "Copyright (c) 2021 mhuisi",
+            "",
+            "Permission is hereby granted, free of charge, to any person obtaining a copy"
+          ]
+        }
+      ]
+    }
+  ],
+  "extraPntRequirements": {
+    "packages": [
+      "leancert",
+      "PrimeCert",
+      "checkdecls"
+    ],
+    "usedByMediumPntImportClosure": false,
+    "action": "Retained as pinned upstream package requirements because the preferred distribution uses the exact original upstream Git commit. They are installed package dependencies, not dependencies of the audited target theorem. No local vendor package or configuration patch is needed."
+  },
+  "prohibitedCodeSources": "No Research, ResearchPNT, plby, or other competing Erdos320 proof source is part of the prepared dependency graph."
+}

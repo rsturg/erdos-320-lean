@@ -1,0 +1,6 @@
+{
+  "exit_code": 0,
+  "command": "python scripts/fetch_mathlib_cache.py",
+  "purpose": "Validate portable wrapper against already fetched exact import cone",
+  "utc_end": "2026-10-16T04:30:41.9475731Z"
+}

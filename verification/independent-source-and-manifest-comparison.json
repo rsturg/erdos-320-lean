@@ -1,0 +1,11 @@
+{
+  "stage": "after complete kernel replay",
+  "utc": "2026-10-16T04:28:05.0787856Z",
+  "project_source_files_checked": 45,
+  "root_shim_before_hash_from": "independent-cache-import-cone.json (captured before build)",
+  "changed_project_sources": [],
+  "config_files_checked": 3,
+  "changed_config_files": [],
+  "project_sources_unchanged": true,
+  "configs_unchanged": true
+}

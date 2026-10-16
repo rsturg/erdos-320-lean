@@ -1,0 +1,10 @@
+name = "Erdos320"
+defaultTargets = ["Erdos320"]
+
+[[require]]
+name = "PrimeNumberTheoremAnd"
+git = "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd.git"
+rev = "6739793850d3eaa031e3543ed72d7f026f8080f5"
+
+[[lean_lib]]
+name = "Erdos320"

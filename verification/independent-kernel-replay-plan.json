@@ -1,0 +1,270 @@
+[
+  {
+    "group": "own",
+    "module": "Erdos320.Core"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.Final"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogIntegral"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogProduct"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LogScale"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.Lower"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAbel"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.AxiomAudit"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Comparison"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Cutoffs"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Iteration"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Losses"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Mesh"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerAnalytic.Renewal"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerArithmetic"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerCofactors"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerCompatible"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerCounting"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerCutoff"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerCutoffGrowth"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerFinite"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerMultiplication"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.LowerRenewal"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.PrimeCounting"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.PrimeCountingEventual"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.Statement"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalytic"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticApplication"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticAxiomAudit"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticDecay"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticFinal"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticKernel"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticLimits"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticPNT"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticPrimeBlocks"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticPrimeIntervals"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperAnalyticUniform"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.AxiomAudit"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.Combinatorics"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.Denominator"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.Grouping"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.ResidualEstimate"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperFinite.SmoothDenominator"
+  },
+  {
+    "group": "own",
+    "module": "Erdos320.UpperRecurrence"
+  },
+  {
+    "group": "architect",
+    "module": "Architect"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Attribute"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Basic"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.CollectUsed"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Command"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Content"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Load"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Output"
+  },
+  {
+    "group": "architect",
+    "module": "Architect.Tactic"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Auxiliary"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.EulerMaclaurin"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Fourier"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Mathlib.Algebra.Notation.Support"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Mathlib.Analysis.SpecialFunctions.Log.Basic"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.MediumPNT"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.MellinCalculus"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Rectangle"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.ResidueCalcOnRectangles"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.SmoothExistence"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Sobolev"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.Tactic.AdditiveCombination"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.ZetaBounds"
+  },
+  {
+    "group": "pnt",
+    "module": "PrimeNumberTheoremAnd.ZetaConj"
+  }
+]

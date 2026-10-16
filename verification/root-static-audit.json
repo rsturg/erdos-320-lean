@@ -1,0 +1,136 @@
+{
+  "schema": "erdos320-release-audit-v1",
+  "status": "passed",
+  "originalSourceGuard": {
+    "filesChecked": 46,
+    "canonicalLfSha256": {
+      "Erdos320.lean": "2799119099b7f19890806b680203e11d01033f10808261b9ea5b5ba220067e3b",
+      "Erdos320/Core.lean": "bff415906203bc0f6305a0059debe44d80c6f182df5d4d18c744f1dfc8bf65b9",
+      "Erdos320/Final.lean": "be9b3a8568bf7a2059d4f4f96c89b2cd629b78e5d5a88322a12ba7a7b946463b",
+      "Erdos320/LogIntegral.lean": "71aa34c101743426ff6d15c85b47875b174da32e2f9a3ca8dcd16486ecda21df",
+      "Erdos320/LogProduct.lean": "2fec75714b0430e1845aa838fb0bf4f7e17a0f860c4486835ba18644ba912651",
+      "Erdos320/LogScale.lean": "fbf78c24f3aaeeb33b390708c933ecd379f152365eb76536a3ec128b70b355be",
+      "Erdos320/Lower.lean": "222617bd4800a96751d588a92f716a6eed84f928e6d61ec08004fd8cd94f3ca9",
+      "Erdos320/LowerAbel.lean": "a5fc8c605f2d247ea6ed36cc6bcbe43c179692caa119840b9b4ac47f619f899f",
+      "Erdos320/LowerAnalytic/AxiomAudit.lean": "108c4e8731a7bacbdb629526898026228980f01de8a9b2e80b19d1e66cde0f2d",
+      "Erdos320/LowerAnalytic/Comparison.lean": "7356c6f9156c885ebe795299ec4cebd87b3d608bd0775ba7e562793f395fcb85",
+      "Erdos320/LowerAnalytic/Cutoffs.lean": "7f96dd35c02ef9c5ef2d209ffc2a7af19cb779854f2c8c5a1c8587997e0d0147",
+      "Erdos320/LowerAnalytic/Iteration.lean": "c768d13495ec072611de96d974970df2233a44ca3e2c5b8c37f66c2301692e59",
+      "Erdos320/LowerAnalytic/Losses.lean": "9574e65f18951936f3a25035f703425fc4aa7ff6a8733fd80f4429b5e8c2b107",
+      "Erdos320/LowerAnalytic/Mesh.lean": "7ce0753ce53a4741c55f042eb7b45fa37d58fe7a1257b16e0e9d5cabea5801a8",
+      "Erdos320/LowerAnalytic/Renewal.lean": "a0a1cbacd4325e0dada6e5729a4878f727a590f057febd4a467ddfa0649a8591",
+      "Erdos320/LowerArithmetic.lean": "f228a732928f52e8f24754bc4839fbc9b9758520ec346c0677a898bafcda2873",
+      "Erdos320/LowerCofactors.lean": "8b242837d8e1e3ee6310713edc5ac39b4059c9b1f47f63e7b9e086f7ffdd5fde",
+      "Erdos320/LowerCompatible.lean": "5f7a52854a82bb457af8582b0b743bef170a5f4249204732fd67cfad5e74135c",
+      "Erdos320/LowerCounting.lean": "6568f609a0046d7ed78407a70e1b51b8dca5f30c1efc592cdb2bad1467f45ef6",
+      "Erdos320/LowerCutoff.lean": "2cfa5ae9d58ca7d0dff47e6e61ae4d9a77d64b246d0f229867d0052f5c71568b",
+      "Erdos320/LowerCutoffGrowth.lean": "117c7f8aeaa445d029a1813c339ecb22fa764ea0e3213e2a72fc28f1a4125d5e",
+      "Erdos320/LowerFinite.lean": "9fe72f72974fa2269c2ed461a344dd533dbf418c2833fa2b37e1ab3995af3717",
+      "Erdos320/LowerMultiplication.lean": "58180c4d4b980747d551129dc03ca9a2eb861c735e229953f01cad89bd5edbbb",
+      "Erdos320/LowerRenewal.lean": "c35d9ee57b42607ef71ea556eb85cc1c2116facdfe77fd46dd62a7ae2be9d16e",
+      "Erdos320/PrimeCounting.lean": "e0ca97d86a911f3fe49a6fab5d2065fadc5e441f805eb9268477582ce21c6146",
+      "Erdos320/PrimeCountingEventual.lean": "43a555f30e588f595b777d0e760d5607a5907b130b53f3be3eced122a7a3eb22",
+      "Erdos320/Statement.lean": "4fd0fdd1c96c91d32d9b3bf64fd2ab087eb99c57c90629795179cfc7fe209ec5",
+      "Erdos320/UpperAnalytic.lean": "325ec0f533bcc254be3f61d337c16ed5a51145a73e6d78abf3b9ee894ba21b14",
+      "Erdos320/UpperAnalyticApplication.lean": "d664cdd196b6a88050328a5cc49e106fa2fae798a5a39948e6b0d2f19b9f7f94",
+      "Erdos320/UpperAnalyticAxiomAudit.lean": "16cdb1aee3086a48aa358cfcc22be9393e68749505a66b3aea0d8bcf6d2e5cd5",
+      "Erdos320/UpperAnalyticDecay.lean": "ec9d6a3784c121fd35cd9079ef89193bcd4f94e5e499b7b07272dad54a9f8af7",
+      "Erdos320/UpperAnalyticFinal.lean": "30a850b5282ae498fc03569705e53dfd1d6e4b8be7da7406b710f3b5f65627d3",
+      "Erdos320/UpperAnalyticKernel.lean": "86396326a0199322c736b90b91083d11b4535f40d34e7a63f9e5bf9c7b4b4de1",
+      "Erdos320/UpperAnalyticLimits.lean": "b2b2626c05023d3660b463a00de8ad147275c3451be543fef2803063a7f8a4cb",
+      "Erdos320/UpperAnalyticPNT.lean": "b53c3d584d5b48d36cec6dbbaf97f3a696ff8f4fd14973092471efdcbae1cb5b",
+      "Erdos320/UpperAnalyticPrimeBlocks.lean": "80c064d3e31351cf5ab3652df78fffc7da2b20537f44468ab5c8ab8a3e863bd4",
+      "Erdos320/UpperAnalyticPrimeIntervals.lean": "b41952abf76673a09bc56f773352337ab48169d34802ac58051995c4c9ba5631",
+      "Erdos320/UpperAnalyticUniform.lean": "998152d5edd409f5582a0ddbbe8b48a60fb27d54c088e002f1cf8c92f1fce0ab",
+      "Erdos320/UpperFinite/AxiomAudit.lean": "36de390d00b7889c4d5d2344a5fc0cebe0d167cd01176c17559a6f4c1bf2315e",
+      "Erdos320/UpperFinite/Combinatorics.lean": "865a6d0dcbd657c03cafddcd677a7e107d792579678d786535aaaeed7e802782",
+      "Erdos320/UpperFinite/Denominator.lean": "bd1153efaee1a685f47da2995cf6f05ae31cf3946373cfabd5c33930769ea124",
+      "Erdos320/UpperFinite/Grouping.lean": "e2ead5db06d1758df3b7297bb30f26ecb4dab6f7543c18c5b2627922b21730f3",
+      "Erdos320/UpperFinite/ResidualEstimate.lean": "114c24cf55cee3989422c28eca93bfadd16d34eec767fdfb5c9bf599f3652085",
+      "Erdos320/UpperFinite/SmoothDenominator.lean": "321d980c5b0c191bf5f4b81f51e28d21d4918ce8bdeb1bfa626b6df06af8eee2",
+      "Erdos320/UpperRecurrence.lean": "e2c35a5fe78de5424ddeb5a6f577680e5449930b88d83f6da9f655c7f5d6cd2d",
+      "verification/IndependentAudit.lean": "67bdfe867f6b31bc5eb782b5fefff655d974b70d680330150254205edbc0ac7a"
+    }
+  },
+  "sourceFingerprintsMatch": true,
+  "dependencies": {
+    "packages": [
+      {
+        "name": "PrimeNumberTheoremAnd",
+        "revision": "6739793850d3eaa031e3543ed72d7f026f8080f5",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "mathlib",
+        "revision": "db127794c79fdeb86f6b0cf6ff2c804026fbaff1",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "PrimeCert",
+        "revision": "f699a3e5d3efb381b9ddfb61a1ca51be25f456bd",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "leancert",
+        "revision": "33a9d1762b284fe1914d481d6a8158520e14708e",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "checkdecls",
+        "revision": "3d425859e73fcfbef85b9638c2a91708ef4a22d4",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "LeanArchitect",
+        "revision": "f38c848196b0467e7b9dcc3d129a866b4051c23c",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "plausible",
+        "revision": "63045536fe95024e6c18fc7b48e03f506701c5bc",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "LeanSearchClient",
+        "revision": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "importGraph",
+        "revision": "5c7542ed018c78194f1e2b903eaf6a792b74c03d",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "proofwidgets",
+        "revision": "24b0d9dc081c5423f8eec7e866c441e5184f29d9",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "aesop",
+        "revision": "e3cb2f741431ce31bf73549fb52316a57368b06f",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "Qq",
+        "revision": "f46324995fca5f0483b742e4eb4daec7f4ee50d2",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "batteries",
+        "revision": "fc38104235ab6cf8a448a74405aa258804ef4e36",
+        "trackedFilesClean": true
+      },
+      {
+        "name": "Cli",
+        "revision": "92564e5770e4d09f2d86dfbf8ada1e9c715b384c",
+        "trackedFilesClean": true
+      }
+    ],
+    "pntModules": 14,
+    "architectModules": 9,
+    "sourceBlobAndSha256Checks": 23,
+    "importClosureMatches": true,
+    "licenseHashesMatch": true
+  },
+  "leanAudit": "not requested"
+}

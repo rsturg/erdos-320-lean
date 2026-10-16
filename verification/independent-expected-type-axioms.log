@@ -1,0 +1,11 @@
+Erdos320.erdos_320 : ∃ c C,
+  0 < c ∧
+    0 < C ∧
+      ∀ᶠ (N : ℕ) in Filter.atTop,
+        c * (↑N / Real.log ↑N) * Erdos320.fullLogProduct N ≤ Real.log ↑(Erdos320.S N) ∧
+          Real.log ↑(Erdos320.S N) ≤ C * (↑N / Real.log ↑N) * Erdos320.fullLogProduct N
+@Erdos320.fullLogProduct_stable : ∀ {N k : ℕ},
+  2 ≤ N → N ≤ k → Erdos320.stoppedProductAt 2 k (Real.log (Real.log ↑N)) = Erdos320.fullLogProduct N
+'Erdos320.erdos_320' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Erdos320.fullLogProduct_stable' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IndependentVerification.expected_erdos_320' depends on axioms: [propext, Classical.choice, Quot.sound]

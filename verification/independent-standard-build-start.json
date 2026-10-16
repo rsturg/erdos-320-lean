@@ -1,0 +1,6 @@
+{
+  "utc_start": "2026-10-16T03:59:30.7418171Z",
+  "own_oleans_before": 0,
+  "command": "lake build",
+  "LEAN_NUM_THREADS": 2
+}

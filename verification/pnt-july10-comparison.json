@@ -1,0 +1,135 @@
+[
+  {
+    "path": "PrimeNumberTheoremAnd/Auxiliary.lean",
+    "localBlob": "fbbe7cbf1d02663dffd1991922be7a7ffdedefdf",
+    "upstreamBlob": "fbbe7cbf1d02663dffd1991922be7a7ffdedefdf",
+    "equal": true,
+    "sha256": "7126839feba8e0afb697eeb0b5c8bbfcb3bf2b723d7104455d67109a40c76b3f"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/MellinCalculus.lean",
+    "localBlob": "ad223e0bd8c5f4205c155cd8325aea3ea8c8505e",
+    "upstreamBlob": "ad223e0bd8c5f4205c155cd8325aea3ea8c8505e",
+    "equal": true,
+    "sha256": "ee4ff44710b3d69280c06223e672c49b65cecddb5f8dc453ff0150733ca5e1be"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Sobolev.lean",
+    "localBlob": "1f98bcbccc7ba3b9c9ee02ec95404731085368f9",
+    "upstreamBlob": "1f98bcbccc7ba3b9c9ee02ec95404731085368f9",
+    "equal": true,
+    "sha256": "fe06e13fad5b47dbd324307ba246110515c4cb50f4c41d6cb15764fd53b1b8ef"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Fourier.lean",
+    "localBlob": "9688eb9f79ce972799c279b3bf006fdf7b0b8ddb",
+    "upstreamBlob": "9688eb9f79ce972799c279b3bf006fdf7b0b8ddb",
+    "equal": true,
+    "sha256": "e9db3c235cabf356d2b4aed528d0ceca6ad3e23c7a150d7049fd9ac796315823"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Mathlib/Analysis/SpecialFunctions/Log/Basic.lean",
+    "localBlob": "1fa2d2b6a88a2b891dc7674914e8e3fa7d19472c",
+    "upstreamBlob": "1fa2d2b6a88a2b891dc7674914e8e3fa7d19472c",
+    "equal": true,
+    "sha256": "7e3e2b8f84e6c170051a6474272455bed2432e6fddac5660072318b9b4eda7ec"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Rectangle.lean",
+    "localBlob": "4fbdabc6770340215f3477378ce824b8718cfc47",
+    "upstreamBlob": "4fbdabc6770340215f3477378ce824b8718cfc47",
+    "equal": true,
+    "sha256": "ab1c0c7c16ad9f3765e439fe42a739d4d25f09aa991df6c4c303f77380a89885"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Tactic/AdditiveCombination.lean",
+    "localBlob": "2a113458bae2522bc2ffd9450be68e1033d7fe9a",
+    "upstreamBlob": "2a113458bae2522bc2ffd9450be68e1033d7fe9a",
+    "equal": true,
+    "sha256": "8791924b05d97f5947e3254fc8b5abacaece4de61c3e111ad53d8913b0ef745e"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/ResidueCalcOnRectangles.lean",
+    "localBlob": "2cb28dbb9d913732ae8d09347b6a978cb8eaa574",
+    "upstreamBlob": "2cb28dbb9d913732ae8d09347b6a978cb8eaa574",
+    "equal": true,
+    "sha256": "5589c4aad22a38fd403945cba1c1c65ab4f0c932162d13bf7cfd6cfb709d79e0"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/EulerMaclaurin.lean",
+    "localBlob": "511e9a163128be2729afdf85f564f5ec61dd4d93",
+    "upstreamBlob": "511e9a163128be2729afdf85f564f5ec61dd4d93",
+    "equal": true,
+    "sha256": "a1def4a9f8f0b36864c5d480db137c1d86be3db1a47b67ae151e587a99167146"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/ZetaBounds.lean",
+    "localBlob": "c613cac8d3a09906c4ca0c7ca8106e1d295e5b2f",
+    "upstreamBlob": "c613cac8d3a09906c4ca0c7ca8106e1d295e5b2f",
+    "equal": true,
+    "sha256": "aab01d422c0190b95dade7873261943997c554d55fcc9fff94a39005e5b5ad5a"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/ZetaConj.lean",
+    "localBlob": "c01e5fe45029b0c0ab5c7d5c13466e5d20825b26",
+    "upstreamBlob": "c01e5fe45029b0c0ab5c7d5c13466e5d20825b26",
+    "equal": true,
+    "sha256": "396b1145cc4a1caa2a729cce3bc5dbacd1fb3364637d6d1a43aa8dc9618645f3"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/Mathlib/Algebra/Notation/Support.lean",
+    "localBlob": "13d3575b14d663481b15e0099f75c42739668f40",
+    "upstreamBlob": "13d3575b14d663481b15e0099f75c42739668f40",
+    "equal": true,
+    "sha256": "e688bf925c2130b291c536d3b93b72c20e41ae95d530c90915921d75a6f52504"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/SmoothExistence.lean",
+    "localBlob": "b33edf879b1117ae0912512529051f0ba77b7d9e",
+    "upstreamBlob": "b33edf879b1117ae0912512529051f0ba77b7d9e",
+    "equal": true,
+    "sha256": "e689045a2d7f92c71c68fda6aa69a89d4a8692187475ba432ed010f453110ea0"
+  },
+  {
+    "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+    "localBlob": "7e6424e5ffdfa1d4ba46e7573ad6c1572df4f529",
+    "upstreamBlob": "7e6424e5ffdfa1d4ba46e7573ad6c1572df4f529",
+    "equal": true,
+    "sha256": "7044c41ae6df6798c743434ea82a682cc784b1dbf4a4817662eb7a0579ad747f"
+  },
+  {
+    "path": "LICENSE",
+    "localBlob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "upstreamBlob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "equal": true,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "README.md",
+    "localBlob": "44f0182d3a8b9886c0ba350dd3a61d0844df9093",
+    "upstreamBlob": "44f0182d3a8b9886c0ba350dd3a61d0844df9093",
+    "equal": true,
+    "sha256": "827b57b50530e786b605a57db3b7b46a52b50ec973e8e003b0f98b6e061f0961"
+  },
+  {
+    "path": "lean-toolchain",
+    "localBlob": "133a3f7d63769e53f3f4b43ee3eddcd6e2d3b238",
+    "upstreamBlob": "133a3f7d63769e53f3f4b43ee3eddcd6e2d3b238",
+    "equal": true,
+    "sha256": "e0a7032ab1976a37a3e1e823816b4f490d462c1e864b21e1999c33cdac76e263"
+  },
+  {
+    "path": "lakefile.toml",
+    "localBlob": "120437dde1daf1e050841416713f2714fcc18cb5",
+    "upstreamBlob": "120437dde1daf1e050841416713f2714fcc18cb5",
+    "equal": true,
+    "sha256": "8e328d09973ab9be71556ad3e87248e7debbf431add15d7fc8cda98aa98dd8da"
+  },
+  {
+    "path": "lake-manifest.json",
+    "localBlob": "37f7cb604131acff147480a4f082e45f697fb518",
+    "upstreamBlob": "37f7cb604131acff147480a4f082e45f697fb518",
+    "equal": true,
+    "sha256": "aed29135aa1334e41d82c631d8da0d04b5d0486c55bc784bbaa78fe5e9cda940"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "path": ".lake/packages/LeanArchitect/Architect.lean",
+    "sha256": "e8ad1f6a51f9ef6c63c9a27503c4b2d7d46e3c4649cdc1ed720728363197ca68"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Attribute.lean",
+    "sha256": "20ae7724958dfc87ad031170efb49c6543bed603f6d98291865351c28cc1e901"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Basic.lean",
+    "sha256": "afe822a8d50be92b5646aef79ae2dd3c1296eb4dd8ba7fa75e890a5358dd11c0"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/CollectUsed.lean",
+    "sha256": "e846664e686d75c1eeefe617d58acad915e71e26197aa8362aee14e81e185005"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Command.lean",
+    "sha256": "42f909b40055c862a47c7e751c09c57909db3891bbc991719ecf4c3cce36e984"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Content.lean",
+    "sha256": "608dcbfd19d1711b2dcd5a0dcb933717c5df55d48ae427e7c18d5b48161fa799"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Load.lean",
+    "sha256": "527022bd6865190a09aca3a9f34dc5f46cb2678444c371c843d202639edf16f3"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Output.lean",
+    "sha256": "68eee25ad4448962e422370e0214e6a134f700d620b484b413bad18a5461eacf"
+  },
+  {
+    "path": ".lake/packages/LeanArchitect/Architect/Tactic.lean",
+    "sha256": "4d21fe195ab090d7bf0d82d682b7520791d8ecc828ce8a0cb07e9e037e1dff42"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Auxiliary.lean",
+    "sha256": "dfcd446e7e56f53cfea1d855e32af32e4677b990e8dcc105a3e3f7887ec86689"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/EulerMaclaurin.lean",
+    "sha256": "854d4f21f40fe930ec4826e3b0309e9cf616a015b53bc586455866ff7df8f9b5"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Fourier.lean",
+    "sha256": "f9e11611e7a42d84ae39447276c42355c9fb3b57e691c2b61b2382ea5321355d"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Mathlib/Algebra/Notation/Support.lean",
+    "sha256": "8ec01fd3819facd671ae75a435c4b041f50cc305347538ba74c1435b69fee68e"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Mathlib/Analysis/SpecialFunctions/Log/Basic.lean",
+    "sha256": "1275fb3b99aa12a2172e18e166fbcec8513f56e289da459fc84b9e2144e3b705"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/MediumPNT.lean",
+    "sha256": "d07e21a202a8e7637573555c6a08dcbd0bb505b687ed3d77593aca8272658708"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/MellinCalculus.lean",
+    "sha256": "ff74eedeafe1f9f8b5380287712ef544f7644cecd763ee4e62f59f3468fd7499"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Rectangle.lean",
+    "sha256": "20d8971fa819db041ff6e5e1a291bc8d63480165c562f5be860bf8b02eb8ec5e"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/ResidueCalcOnRectangles.lean",
+    "sha256": "40341e46652e0ba7444d570c17c3f30562dd84863e51a5168e56c4591bacda68"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/SmoothExistence.lean",
+    "sha256": "bc5417331d50aa5f38081b28725c987932fe7ae7aa6819aa6f230872ae5d39ac"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Sobolev.lean",
+    "sha256": "410be21478fc10385f499069de72ac8be5273fa9cf75d7263281f4b62eb17c90"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Tactic/AdditiveCombination.lean",
+    "sha256": "19638f18c7d69086a78fb9ba89a6e7e6f717aef5440246f77fd3ecdf1fcb4d5b"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/ZetaBounds.lean",
+    "sha256": "536940fb140dc272352cc000024f34fbae0f70771e64f7788859ac4c99bf9d4e"
+  },
+  {
+    "path": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/ZetaConj.lean",
+    "sha256": "2f1aab52291a0e3ce82c0d89ad3d6d87118e415617c44c3d7b2ed6462ac54e00"
+  },
+  {
+    "path": "Erdos320.lean",
+    "sha256": "2799119099b7f19890806b680203e11d01033f10808261b9ea5b5ba220067e3b"
+  },
+  {
+    "path": "Erdos320/Core.lean",
+    "sha256": "bff415906203bc0f6305a0059debe44d80c6f182df5d4d18c744f1dfc8bf65b9"
+  },
+  {
+    "path": "Erdos320/Final.lean",
+    "sha256": "be9b3a8568bf7a2059d4f4f96c89b2cd629b78e5d5a88322a12ba7a7b946463b"
+  },
+  {
+    "path": "Erdos320/LogIntegral.lean",
+    "sha256": "71aa34c101743426ff6d15c85b47875b174da32e2f9a3ca8dcd16486ecda21df"
+  },
+  {
+    "path": "Erdos320/LogProduct.lean",
+    "sha256": "2fec75714b0430e1845aa838fb0bf4f7e17a0f860c4486835ba18644ba912651"
+  },
+  {
+    "path": "Erdos320/LogScale.lean",
+    "sha256": "fbf78c24f3aaeeb33b390708c933ecd379f152365eb76536a3ec128b70b355be"
+  },
+  {
+    "path": "Erdos320/Lower.lean",
+    "sha256": "222617bd4800a96751d588a92f716a6eed84f928e6d61ec08004fd8cd94f3ca9"
+  },
+  {
+    "path": "Erdos320/LowerAbel.lean",
+    "sha256": "a5fc8c605f2d247ea6ed36cc6bcbe43c179692caa119840b9b4ac47f619f899f"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/AxiomAudit.lean",
+    "sha256": "108c4e8731a7bacbdb629526898026228980f01de8a9b2e80b19d1e66cde0f2d"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Comparison.lean",
+    "sha256": "7356c6f9156c885ebe795299ec4cebd87b3d608bd0775ba7e562793f395fcb85"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Cutoffs.lean",
+    "sha256": "7f96dd35c02ef9c5ef2d209ffc2a7af19cb779854f2c8c5a1c8587997e0d0147"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Iteration.lean",
+    "sha256": "c768d13495ec072611de96d974970df2233a44ca3e2c5b8c37f66c2301692e59"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Losses.lean",
+    "sha256": "9574e65f18951936f3a25035f703425fc4aa7ff6a8733fd80f4429b5e8c2b107"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Mesh.lean",
+    "sha256": "7ce0753ce53a4741c55f042eb7b45fa37d58fe7a1257b16e0e9d5cabea5801a8"
+  },
+  {
+    "path": "Erdos320/LowerAnalytic/Renewal.lean",
+    "sha256": "a0a1cbacd4325e0dada6e5729a4878f727a590f057febd4a467ddfa0649a8591"
+  },
+  {
+    "path": "Erdos320/LowerArithmetic.lean",
+    "sha256": "f228a732928f52e8f24754bc4839fbc9b9758520ec346c0677a898bafcda2873"
+  },
+  {
+    "path": "Erdos320/LowerCofactors.lean",
+    "sha256": "8b242837d8e1e3ee6310713edc5ac39b4059c9b1f47f63e7b9e086f7ffdd5fde"
+  },
+  {
+    "path": "Erdos320/LowerCompatible.lean",
+    "sha256": "5f7a52854a82bb457af8582b0b743bef170a5f4249204732fd67cfad5e74135c"
+  },
+  {
+    "path": "Erdos320/LowerCounting.lean",
+    "sha256": "6568f609a0046d7ed78407a70e1b51b8dca5f30c1efc592cdb2bad1467f45ef6"
+  },
+  {
+    "path": "Erdos320/LowerCutoff.lean",
+    "sha256": "2cfa5ae9d58ca7d0dff47e6e61ae4d9a77d64b246d0f229867d0052f5c71568b"
+  },
+  {
+    "path": "Erdos320/LowerCutoffGrowth.lean",
+    "sha256": "c9f913d94f410d37621ea2db7938d9446480f38dcf912a1a709754070c7ea001"
+  },
+  {
+    "path": "Erdos320/LowerFinite.lean",
+    "sha256": "9fe72f72974fa2269c2ed461a344dd533dbf418c2833fa2b37e1ab3995af3717"
+  },
+  {
+    "path": "Erdos320/LowerMultiplication.lean",
+    "sha256": "58180c4d4b980747d551129dc03ca9a2eb861c735e229953f01cad89bd5edbbb"
+  },
+  {
+    "path": "Erdos320/LowerRenewal.lean",
+    "sha256": "c35d9ee57b42607ef71ea556eb85cc1c2116facdfe77fd46dd62a7ae2be9d16e"
+  },
+  {
+    "path": "Erdos320/PrimeCounting.lean",
+    "sha256": "e0ca97d86a911f3fe49a6fab5d2065fadc5e441f805eb9268477582ce21c6146"
+  },
+  {
+    "path": "Erdos320/PrimeCountingEventual.lean",
+    "sha256": "43a555f30e588f595b777d0e760d5607a5907b130b53f3be3eced122a7a3eb22"
+  },
+  {
+    "path": "Erdos320/Statement.lean",
+    "sha256": "4fd0fdd1c96c91d32d9b3bf64fd2ab087eb99c57c90629795179cfc7fe209ec5"
+  },
+  {
+    "path": "Erdos320/UpperAnalytic.lean",
+    "sha256": "325ec0f533bcc254be3f61d337c16ed5a51145a73e6d78abf3b9ee894ba21b14"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticApplication.lean",
+    "sha256": "d664cdd196b6a88050328a5cc49e106fa2fae798a5a39948e6b0d2f19b9f7f94"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticAxiomAudit.lean",
+    "sha256": "16cdb1aee3086a48aa358cfcc22be9393e68749505a66b3aea0d8bcf6d2e5cd5"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticDecay.lean",
+    "sha256": "ec9d6a3784c121fd35cd9079ef89193bcd4f94e5e499b7b07272dad54a9f8af7"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticFinal.lean",
+    "sha256": "30a850b5282ae498fc03569705e53dfd1d6e4b8be7da7406b710f3b5f65627d3"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticKernel.lean",
+    "sha256": "86396326a0199322c736b90b91083d11b4535f40d34e7a63f9e5bf9c7b4b4de1"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticLimits.lean",
+    "sha256": "b2b2626c05023d3660b463a00de8ad147275c3451be543fef2803063a7f8a4cb"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticPNT.lean",
+    "sha256": "b53c3d584d5b48d36cec6dbbaf97f3a696ff8f4fd14973092471efdcbae1cb5b"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticPrimeBlocks.lean",
+    "sha256": "80c064d3e31351cf5ab3652df78fffc7da2b20537f44468ab5c8ab8a3e863bd4"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticPrimeIntervals.lean",
+    "sha256": "b41952abf76673a09bc56f773352337ab48169d34802ac58051995c4c9ba5631"
+  },
+  {
+    "path": "Erdos320/UpperAnalyticUniform.lean",
+    "sha256": "998152d5edd409f5582a0ddbbe8b48a60fb27d54c088e002f1cf8c92f1fce0ab"
+  },
+  {
+    "path": "Erdos320/UpperFinite/AxiomAudit.lean",
+    "sha256": "36de390d00b7889c4d5d2344a5fc0cebe0d167cd01176c17559a6f4c1bf2315e"
+  },
+  {
+    "path": "Erdos320/UpperFinite/Combinatorics.lean",
+    "sha256": "865a6d0dcbd657c03cafddcd677a7e107d792579678d786535aaaeed7e802782"
+  },
+  {
+    "path": "Erdos320/UpperFinite/Denominator.lean",
+    "sha256": "bd1153efaee1a685f47da2995cf6f05ae31cf3946373cfabd5c33930769ea124"
+  },
+  {
+    "path": "Erdos320/UpperFinite/Grouping.lean",
+    "sha256": "e2ead5db06d1758df3b7297bb30f26ecb4dab6f7543c18c5b2627922b21730f3"
+  },
+  {
+    "path": "Erdos320/UpperFinite/ResidualEstimate.lean",
+    "sha256": "114c24cf55cee3989422c28eca93bfadd16d34eec767fdfb5c9bf599f3652085"
+  },
+  {
+    "path": "Erdos320/UpperFinite/SmoothDenominator.lean",
+    "sha256": "321d980c5b0c191bf5f4b81f51e28d21d4918ce8bdeb1bfa626b6df06af8eee2"
+  },
+  {
+    "path": "Erdos320/UpperRecurrence.lean",
+    "sha256": "e2c35a5fe78de5424ddeb5a6f577680e5449930b88d83f6da9f655c7f5d6cd2d"
+  }
+]

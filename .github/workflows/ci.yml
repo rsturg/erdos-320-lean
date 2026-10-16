@@ -1,0 +1,58 @@
+name: Build and audit Lean proof
+
+on:
+  push:
+    paths:
+      - '**.lean'
+      - 'lean-toolchain'
+      - 'lakefile.toml'
+      - 'lake-manifest.json'
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'verification/source-fingerprints.json'
+      - 'verification/dependency-provenance.json'
+      - 'verification/independent-mathlib-cache-roots.txt'
+  pull_request:
+    paths:
+      - '**.lean'
+      - 'lean-toolchain'
+      - 'lakefile.toml'
+      - 'lake-manifest.json'
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'verification/source-fingerprints.json'
+      - 'verification/dependency-provenance.json'
+      - 'verification/independent-mathlib-cache-roots.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  proof:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    env:
+      LEAN_NUM_THREADS: "2"
+    steps:
+      - name: Check out the selected source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Install the pinned Lean toolchain
+        uses: leanprover/lean-action@24581d74d674803a25a81b10b059c5c0cdd344c6 # v1
+        with:
+          auto-config: "false"
+          build: "false"
+          test: "false"
+          lint: "false"
+          use-github-cache: "false"
+          use-mathlib-cache: "false"
+      - name: Fetch the recorded Mathlib import cone
+        run: python3 scripts/fetch_mathlib_cache.py
+      - name: Build the original proof from source
+        run: lake build
+      - name: Audit source, pins, import closure, exact statement, and axioms
+        run: |
+          git diff --exit-code -- lean-toolchain lake-manifest.json
+          python3 scripts/audit.py --lean --fingerprints verification/source-fingerprints.json

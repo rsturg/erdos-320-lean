@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Erdos320/LowerAnalytic/AxiomAudit.lean",
+    "olean": ".lake/build/lib/lean/Erdos320/LowerAnalytic/AxiomAudit.olean",
+    "module": "Erdos320.LowerAnalytic.AxiomAudit"
+  },
+  {
+    "source": "Erdos320/UpperAnalyticAxiomAudit.lean",
+    "olean": ".lake/build/lib/lean/Erdos320/UpperAnalyticAxiomAudit.olean",
+    "module": "Erdos320.UpperAnalyticAxiomAudit"
+  },
+  {
+    "source": "Erdos320/UpperFinite/AxiomAudit.lean",
+    "olean": ".lake/build/lib/lean/Erdos320/UpperFinite/AxiomAudit.olean",
+    "module": "Erdos320.UpperFinite.AxiomAudit"
+  }
+]

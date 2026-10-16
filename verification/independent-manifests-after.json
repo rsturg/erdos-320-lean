@@ -1,0 +1,14 @@
+[
+  {
+    "path": "lean-toolchain",
+    "sha256": "efac0b94923b2d8b6840cd35be9177ad0fc5ab2332f4f4311c98712cee92fdee"
+  },
+  {
+    "path": "lakefile.toml",
+    "sha256": "5aa79762c3ea37986a335a26ed35189c1b094a43f49113d3dc72c55cd67020f2"
+  },
+  {
+    "path": "lake-manifest.json",
+    "sha256": "ea74462ad29311c11e3d14a6c9a80533995a7382d69ddbbbfa3af7ccd57ac053"
+  }
+]

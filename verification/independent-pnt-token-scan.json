@@ -1,0 +1,16 @@
+{
+  "kind": "raw token scan; comments not masked",
+  "classification": "Both matches are documentation examples inside one block comment, not executable declarations",
+  "matches": [
+    {
+      "file": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Tactic/AdditiveCombination.lean",
+      "line": 172,
+      "text": "axiom qc : ℚ"
+    },
+    {
+      "file": ".lake/packages/PrimeNumberTheoremAnd/PrimeNumberTheoremAnd/Tactic/AdditiveCombination.lean",
+      "line": 173,
+      "text": "axiom hqc : qc = 2*qc"
+    }
+  ]
+}
