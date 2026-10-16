@@ -1,0 +1,64 @@
+{
+  "proof_commit": "93e88e53935c8a18c421425efa797576d895fd85",
+  "run_url": "https://github.com/rsturg/erdos-320-lean/actions/runs/38851143985",
+  "jobs": [
+    {
+      "id": 116812391890,
+      "name": "proof",
+      "status": "completed",
+      "conclusion": "success",
+      "run_id": 38851143985,
+      "logs_url": null,
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 1
+        },
+        {
+          "name": "Check out the selected source",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 2
+        },
+        {
+          "name": "Install the pinned Lean toolchain",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 3
+        },
+        {
+          "name": "Fetch the recorded Mathlib import cone",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 4
+        },
+        {
+          "name": "Build the original proof from source",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 5
+        },
+        {
+          "name": "Audit source, pins, import closure, exact statement, and axioms",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 6
+        },
+        {
+          "name": "Post Check out the selected source",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 12
+        },
+        {
+          "name": "Complete job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 13
+        }
+      ]
+    }
+  ]
+}

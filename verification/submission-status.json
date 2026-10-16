@@ -1,0 +1,27 @@
+{
+  "observed_at": "2026-10-16T04:37:50.0181905Z",
+  "proof_commit": "93e88e53935c8a18c421425efa797576d895fd85",
+  "workflow_runs": [
+    {
+      "id": 38851143985,
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/rsturg/erdos-320-lean/actions/runs/38851143985",
+      "head_sha": "93e88e53935c8a18c421425efa797576d895fd85",
+      "created_at": "2026-10-16T04:32:23Z"
+    }
+  ],
+  "pull_request": {
+    "url": "https://github.com/TheJustinSunPrize/awards/pull/5070",
+    "number": 5070,
+    "state": "open",
+    "merged": false,
+    "merged_at": null,
+    "draft": false,
+    "head_sha": "34720ec6cb810e6b487b34c5fb90499b4659b512",
+    "changed_files": 1,
+    "additions": 2,
+    "deletions": 1
+  },
+  "public_comments": []
+}

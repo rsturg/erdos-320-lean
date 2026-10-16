@@ -25,11 +25,15 @@ The standalone audit and portable release audit both passed. The official `leanc
 
 ## Dependency and source audit
 
+The selected public proof commit is **`93e88e53935c8a18c421425efa797576d895fd85`**. Its 46 canonical Lean fingerprints, 45 raw project-source hashes, and all three raw toolchain/Lake configuration hashes match the verified inputs: [committed-source check](../verification/selected-commit-source-check.json). The later submission-record commit adds documentation and evidence without changing those proof inputs.
+
 The comment/string-aware guard covers all 45 original project Lean files plus the standalone verification file. It rejects executable proof holes and added axiom declarations. The audit checks all 14 immutable Git revisions, clean tracked dependency files, license hashes, 23 PNT/Architect source blob and SHA-256 identities, and the exact imported closure. [Dependency provenance](../verification/dependency-provenance.json) and [dependency documentation](DEPENDENCIES.md) record these checks. Canonical LF fingerprints make the source check independent of Windows newline conversion.
 
 The [root static audit](../verification/root-static-audit.json) independently passed against the fresh release dependency checkouts. The final portable run, exact-statement output, and replay evidence are linked in the detailed verifier report. Checkout-specific absolute path prefixes in public evidence are normalized to relative paths or a documented placeholder; mathematical output and exit status are not changed.
 
 ## Trust boundary and interpretation
+
+The [GitHub Actions Linux reproduction](https://github.com/rsturg/erdos-320-lean/actions/runs/38851143985) for that exact public proof commit also **passed** on Ubuntu 24.04: pinned toolchain installation, the recorded import-cone cache, a fresh original-source `lake build`, manifest retention, and the full portable source/dependency/type/axiom audit. [Remote job-step evidence](../verification/github-ci-jobs.json) records success. The 68-module explicit kernel replay reported above was performed in the Windows verification pass; the Linux run is a separate fresh build and audit.
 
 The transitive final-theorem axiom audit excludes proof holes and custom unproved mathematical assumptions reaching through imported theorems. The kernel replay checks safe kernel-checkable declarations at the recorded module scope; the official replay tool skips unsafe and partial implementations, including some metaprogramming utilities. It checks the generated mathematical proof terms and is part of Lean, not an alternate kernel implementation. The entire cached Mathlib/Lean environment was not rebuilt or replayed from an empty environment. Lean's compiler/kernel, its standard axioms, the pinned imported infrastructure, the official Mathlib cache mechanism, operating system, and hardware remain part of the stated trust boundary.
 
